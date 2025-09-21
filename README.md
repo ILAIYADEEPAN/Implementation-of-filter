@@ -1,4 +1,6 @@
 # Implementation-of-filter
+# NAME : ILAIYADEEPAN K
+# REG NO : 212223230080
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
